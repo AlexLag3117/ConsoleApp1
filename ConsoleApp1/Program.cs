@@ -26,7 +26,7 @@ namespace ConsoleApp1
         }
         public void Print1()
         {
-            Console.WriteLine("A");
+            Console.WriteLine("A1");
         }
         public void Print2()
         {
