@@ -10,6 +10,6 @@ namespace ConsoleApp1
     {
         public int a { get; private set; }
 
-        public bool f { get; }
+        public bool f { get; set; }
     }
 }
