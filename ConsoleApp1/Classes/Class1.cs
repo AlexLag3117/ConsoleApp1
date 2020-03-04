@@ -9,5 +9,7 @@ namespace ConsoleApp1
     class Class1
     {
         public int a { get; private set; }
+
+        bool f;
     }
 }
