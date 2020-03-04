@@ -8,8 +8,6 @@ namespace ConsoleApp1
 {
     class Class1
     {
-        int a { get; set; }
-        bool f;
+        public int a { get; private set; }
     }
-
 }
