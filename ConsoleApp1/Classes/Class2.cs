@@ -8,5 +8,8 @@ namespace ConsoleApp1.Classes
 {
     class Class2
     {
+
+        int s;
+
     }
 }
