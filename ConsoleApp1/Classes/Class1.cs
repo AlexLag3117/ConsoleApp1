@@ -15,9 +15,9 @@ namespace ConsoleApp1
         public bool yu { get; set; }
 
         public bool yu1 { get; set; }
-    }
-}
 
         public bool yu2 { get; set; }
+        public bool yu3 { get; set; }    
+
     }
 }
