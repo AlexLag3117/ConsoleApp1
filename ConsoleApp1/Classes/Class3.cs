@@ -8,7 +8,6 @@ namespace ConsoleApp1.Classes
 {
     class Class3
     {
-
         bool s4;
     }
 }
